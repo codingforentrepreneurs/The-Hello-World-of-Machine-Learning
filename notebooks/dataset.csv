@@ -1,0 +1,13 @@
+customer,tags
+"Hi there, what time do you open tomorrow for lunch?","['opening', 'closing', 'hours']"
+Can I speak to your manager?,['customer_support']
+The food was amazing thank you!,"['customer_support', 'feedback']"
+What type of products do you have?,"['products', 'menu', 'inventory', 'food']"
+How late is your kitchen open?,"['opening', 'hours', 'closing']"
+"My order was prepared incorrectly, how can I get this fixed?",['customer_support']
+What kind of meats do you have?,"['menu', 'products', 'inventory', 'food']"
+When does your dining room open?,"['opening', 'hours']"
+When do you open for dinner?,"['opening', 'hours', 'closing']"
+How do I contact you?,"['contact', 'customer_support']"
+When does the kitchen close?,"['closing', 'hours', 'opening']"
+What are your menu items?,"['menu', 'products', 'inventory', 'food']"
